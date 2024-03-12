@@ -1,5 +1,5 @@
-# httpcatlab-python-sdk
-## Httpcatlab
+# myhttpcatlab-python-sdk
+## myhttpcatlab
 myhttpcatlab [GitHub](https://github.com/shepf/httpcat-python-sdk)配合 [httpcat服务端项目](https://github.com/shepf/httpcat-release)使用，是httpcat服务的客户端sdk。
 
 Httpcat SDK for Python 可以方便的让你上传下载你的httpcat服务文件。
